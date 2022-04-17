@@ -5,7 +5,7 @@
 
 ### Hi there 👋, my name is Sirin
 #### I am a Web Developer
-![I am a Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Web Developer](https://www.fotonik.dtu.dk/english/-/media/institutter/fotonik/_new-website-2019-2020/coding-colourbox36002827.jpg?h=230&la=da&mw=460&w=460&hash=F976A4A8AF49237713A563DFBBAC7953D97FA7B7)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 

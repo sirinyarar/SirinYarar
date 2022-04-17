@@ -1,4 +1,4 @@
-<img src="https://www.fotonik.dtu.dk/english/-/media/institutter/fotonik/_new-website-2019-2020/coding-colourbox36002827.jpg?h=230&la=da&mw=460&w=460&hash=F976A4A8AF49237713A563DFBBAC7953D97FA7B7" height="100" width="600" >
+<img src="https://www.fotonik.dtu.dk/english/-/media/institutter/fotonik/_new-website-2019-2020/coding-colourbox36002827.jpg?h=230&la=da&mw=460&w=460&hash=F976A4A8AF49237713A563DFBBAC7953D97FA7B7" height="250" width="1000" >
 
 ### Hi there 👋
 
